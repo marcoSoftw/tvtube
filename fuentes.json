@@ -68,6 +68,10 @@
     "titulo": "Caracol"
   },
   {
+    "id": "ZA6YS0CYoTA",
+    "titulo": "Noticias Caracol"
+  },
+  {
     "id": "34MBhb2M_TE",
     "titulo": "Televisa Puebla"
   },
@@ -76,7 +80,23 @@
     "titulo": "SBT Central"
   },
   {
-    "id": "ZA6YS0CYoTA",
-    "titulo": "Noticias Caracol"
+    "id": "tTzcdqAJnZw",
+    "titulo": "SBT Rio"
+  },
+  {
+    "id": "raDcNI8Vwh4",
+    "titulo": "SBT RS"
+  },
+  {
+    "id": "2-TJWjqWsSU",
+    "titulo": "teleSur"
+  },
+  {
+    "id": "puF_JRcRLxo",
+    "titulo": "Noticias RCN"
+  },
+  {
+    "id": "CG7UYN5OrQA",
+    "titulo": "Caso Cerrado TV"
   }
 ]
